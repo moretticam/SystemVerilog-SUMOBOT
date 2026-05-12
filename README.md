@@ -10,7 +10,7 @@ This repository contains the RTL design that runs on the robot's FPGA, a legacy 
 | FPGA board | Altera Cyclone I EP1C3T144C8N dev-board|
 | Distance sensors | 3x HC-SR04 ultrasound sensors|
 | Motor driver | TB6612FNG |
-| Chassis | `<TODO: add files>` |
+| Chassis | 3D-Designs-for-the-robot.3mf |
 ---
 
 ## Functionalities
