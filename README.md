@@ -1,5 +1,5 @@
 # SystemVerilog-SUMOBOT
-SystemVerilog code for our autonomus SUMO BOT. Participated and WON! :) the **2026 AESSBOT tournament at UPC (Universitat Politècnica de Catalunya)**.
+SystemVerilog code for our autonomus SUMO BOT. Participated and WON! :) the **2026 AESSBOT tournament at UPC (Universitat Politècnica de Catalunya)**. It was the only HDL-based design out of 16 participants.
 This repository contains the RTL design that runs on the robot's FPGA, a legacy Cyclone I dev board. It includes sensor interfacing, motor control, and the high-level behavior FSM that decides when to charge, evade, or search for an opponent.
 
 ---
